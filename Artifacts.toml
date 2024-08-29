@@ -1,0 +1,143 @@
+[[proxTV]]
+arch = "aarch64"
+git-tree-sha1 = "a9ceaa27dc612f569b74a5585a29d709d6ab5efc"
+os = "macos"
+
+    [[proxTV.download]]
+    sha256 = "4b12c5547dc7b7fc68048cd0c7f8ab5eb6e9cb6d47931807360fec60b8bd0347"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.aarch64-apple-darwin.tar.gz"
+[[proxTV]]
+arch = "aarch64"
+git-tree-sha1 = "9f398ce326b28daf01a9a4012deaeeedce47019e"
+libc = "glibc"
+os = "linux"
+
+    [[proxTV.download]]
+    sha256 = "12faa01bce66a10c494933f95cb0fb30436cfddb001f0982b64133fa8dc6229f"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.aarch64-linux-gnu.tar.gz"
+[[proxTV]]
+arch = "aarch64"
+git-tree-sha1 = "07fce0aec9e67b51e9afcb09c15420680c5d7303"
+libc = "musl"
+os = "linux"
+
+    [[proxTV.download]]
+    sha256 = "758199c0a029b8ca5a11b89efd6ed73116a90cecf0c9ed69ac604a668645189d"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.aarch64-linux-musl.tar.gz"
+[[proxTV]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "618acf3a7b90ef321942aa6a1b193703db95f303"
+libc = "glibc"
+os = "linux"
+
+    [[proxTV.download]]
+    sha256 = "cc534f2cba6df0de462dfbd1cc8a68e93c4bbaf1c6a1f5abe312aaf3aa52f7ee"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.armv6l-linux-gnueabihf.tar.gz"
+[[proxTV]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d61a4ea6f1fc9850ba1f6d9093f1e88b93f3208e"
+libc = "musl"
+os = "linux"
+
+    [[proxTV.download]]
+    sha256 = "f2992bc0c738826f1f78da3708166aa3235db4a665c804164356161e0958ff01"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.armv6l-linux-musleabihf.tar.gz"
+[[proxTV]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4225784858a2dfc59a0dae39db9ea1d088ec59d4"
+libc = "glibc"
+os = "linux"
+
+    [[proxTV.download]]
+    sha256 = "25e55b757aaac343ffc969bd234b70b02c9781defd953b865318a7bc3478b702"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.armv7l-linux-gnueabihf.tar.gz"
+[[proxTV]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c03ec712fa9323931ede0891a0e74b511cf1618d"
+libc = "musl"
+os = "linux"
+
+    [[proxTV.download]]
+    sha256 = "ce586e4c70b02ff00c77ef3a548c3a1e680042ab203d113f348c7020be1b285f"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.armv7l-linux-musleabihf.tar.gz"
+[[proxTV]]
+arch = "i686"
+git-tree-sha1 = "3d25027bf1515f562397de06dafa56c3d51ead2c"
+libc = "glibc"
+os = "linux"
+
+    [[proxTV.download]]
+    sha256 = "0a7fcb91fafcdeca4541061e401ce843dfcb310b1e6c1e95fdc738a5ae88a06d"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.i686-linux-gnu.tar.gz"
+[[proxTV]]
+arch = "i686"
+git-tree-sha1 = "31590983075bf408473454875574c2c92c0fcd18"
+libc = "musl"
+os = "linux"
+
+    [[proxTV.download]]
+    sha256 = "e4e1f54643c2d7f10aee59d25583657acf7b19754ab42f7c35fa38e75d948bee"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.i686-linux-musl.tar.gz"
+[[proxTV]]
+arch = "i686"
+git-tree-sha1 = "fb1ddeb0b25aeb497ce2424b021aa4b3aacfe615"
+os = "windows"
+
+    [[proxTV.download]]
+    sha256 = "7fe3f62b0f672829ac07672b8e4cf11da24fd7701d14ec4a90dbe00e628eb3d6"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.i686-w64-mingw32.tar.gz"
+[[proxTV]]
+arch = "powerpc64le"
+git-tree-sha1 = "18951bdb404cb61e6669ec0b4c1a44cf9ecc37bb"
+libc = "glibc"
+os = "linux"
+
+    [[proxTV.download]]
+    sha256 = "3f27447dcb9eb4ce4f4b0fafd229035c1377acf248f6c5a881e9c2b730fd35bf"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.powerpc64le-linux-gnu.tar.gz"
+[[proxTV]]
+arch = "x86_64"
+git-tree-sha1 = "8e56665b12105f7212a16dd8a82eeb3daaedd941"
+os = "macos"
+
+    [[proxTV.download]]
+    sha256 = "a115b9a01a6eb13c9f05d7b3e1bfd40acf4038d726302b6387374195536052cf"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.x86_64-apple-darwin.tar.gz"
+[[proxTV]]
+arch = "x86_64"
+git-tree-sha1 = "b199935c2a3b4c4ec3922524dad942338b562e8c"
+libc = "glibc"
+os = "linux"
+
+    [[proxTV.download]]
+    sha256 = "70d7b6d23693de8328d3cd799c254b2793aa89eb7acd89023032f49efa38c998"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.x86_64-linux-gnu.tar.gz"
+[[proxTV]]
+arch = "x86_64"
+git-tree-sha1 = "8f6251880d7f0f699f359392a44c3f141e877128"
+libc = "musl"
+os = "linux"
+
+    [[proxTV.download]]
+    sha256 = "6566b1816f2b26fd3fd63469de96f4ee764e5ed3b68b8163337133a642e8b0f2"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.x86_64-linux-musl.tar.gz"
+[[proxTV]]
+arch = "x86_64"
+git-tree-sha1 = "e23b9fd6cde710e3a13c9de16ca9a97bcf2b91d0"
+os = "freebsd"
+
+    [[proxTV.download]]
+    sha256 = "0fa347aaaf21313229933bf7168c8be29887479121c31fda78920f06ecb4fb47"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.x86_64-unknown-freebsd.tar.gz"
+[[proxTV]]
+arch = "x86_64"
+git-tree-sha1 = "50a86f841653dfa12e4b074f87907bd68e72c7f7"
+os = "windows"
+
+    [[proxTV.download]]
+    sha256 = "390f58983b32bd3aad509ef182be40f2fbd8cb180a1aa11abb3fd174229cd23d"
+    url = "https://github.com/JuliaBinaryWrappers/proxTV_jll.jl/releases/download/proxTV-v3.3.0+0/proxTV.v3.3.0.x86_64-w64-mingw32.tar.gz"
