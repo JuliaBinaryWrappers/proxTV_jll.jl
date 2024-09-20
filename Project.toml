@@ -1,6 +1,6 @@
 name = "proxTV_jll"
 uuid = "700117f8-5dbb-54dd-9908-6f3eb0e21f87"
-version = "3.3.1+0"
+version = "3.3.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
